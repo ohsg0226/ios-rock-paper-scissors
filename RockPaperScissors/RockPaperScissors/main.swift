@@ -6,6 +6,7 @@
 //
 import Foundation
 
+
 let youWin = "이겼습니다!", youLose = "졌습니다!", draw = "비겼습니다!"
 let muk = 1, chi = 2, pa = 3
 let stop = 0, scissors = 1, rock = 2, paper = 3
